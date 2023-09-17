@@ -97,6 +97,8 @@ body {
 }
 
 .mainbar .subtitle {
+    color: #19376D;
+    font-weight: lighter;
     width: 70%;
 }
 
