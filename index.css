@@ -43,7 +43,6 @@ body {
 .maincol {
     width: 30rem;
     max-width: 90%;
-    margin-right: 2vw;
 }
 
 .subcol {
@@ -138,6 +137,10 @@ body {
     .mainbar {
         text-align: right;
         align-items: flex-end;
+    }
+
+    .maincol {
+        margin-right: 2vw;
     }
 
     .subcol {
